@@ -1,50 +1,38 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: NM CASJ
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: Why NM CASJ
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    NM CASJ is an organization of counselors who believe social justice and advocacy are critical to the counseling profession, de-stigmatization of mental health, and creating an equitable society.
+heading: OUR VISION and MISSION
+subheading: New Mexico Counselors for Advocacy and Social Justice
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  The mission of CASJ, acting in accord with NMCA and CSJ, is to promote social justice by doing the following:
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Promoting a consciousness of social justice through inclusive dialogue within the counseling profession
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Contributing to the process of developing personal and professional competencies in advocacy and social justice
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Fostering individual, family, and community wellness within cultural contexts
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Engaging in mutual and equitable relationships that cultivate communication and collaboration among communities through outreach and networking.
+    - image: /img/coffee.png
+      text: >
+        Providing a proactive and non-violent presence in the challenge to generate social consciousness within oppressive systems.
+    - image: /img/coffee-gear.png
+      text: >
+        Supporting professional development and leadership through mentoring.
+    - image: /img/tutorials.png
+      text: >
+        Creating an inclusive culture which means allowing for anonymous comments at each meeting, allowing for an atmosphere where culturally unique and opinionated voices can be heard.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
