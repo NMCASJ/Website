@@ -46,7 +46,7 @@ module.exports = {
           {
             resolve: "gatsby-remark-relative-images",
             options: {
-              name: "uploads",
+              // name: "uploads",
             },
           },
           {
@@ -82,4 +82,4 @@ module.exports = {
     }, // must be after other CSS plugins
     "gatsby-plugin-netlify", // make sure to keep it last in the array
   ],
-};
+}
