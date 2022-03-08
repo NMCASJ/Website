@@ -1,4 +1,0 @@
-backend:
-  name: git-gateway
-  repo: NMCASJ/Website
-  branch: main
