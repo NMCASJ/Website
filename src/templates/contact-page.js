@@ -15,7 +15,7 @@ export const ContactPageTemplate = ({ title, image, content }) => {
       <section className="section section--gradient">
         <div className="container">
           <div className="section has-text-centered">
-            <p dangerouslySetInnerHTML={{ __html: content }}></p>
+            <div dangerouslySetInnerHTML={{ __html: content }}></div>
           </div>
         </div>
       </section>
@@ -49,8 +49,8 @@ ContactPage.propTypes = {
 
 export default ContactPage
 
-export const contactPageQuery = graphql`
-  query ContactPage($id: String!) {
+export const pageQuery = graphql`
+  query ContactPageTemplate($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {

@@ -1,5 +1,5 @@
 ---
-templateKey: 'team-page'
+templateKey: 'about-page'
 path: /about
 title: Who are we?
 image: /img/New_Mexico_Mountains.jpeg

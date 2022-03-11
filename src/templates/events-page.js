@@ -6,7 +6,7 @@ import { getImage } from 'gatsby-plugin-image'
 import FullWidthImage from '../components/FullWidthImage'
 
 // eslint-disable-next-line
-export const AboutPageTemplate = ({ title, image, content }) => {
+export const EventsPageTemplate = ({ title, image, content }) => {
   const heroImage = getImage(image) || image
 
   return (
@@ -15,7 +15,7 @@ export const AboutPageTemplate = ({ title, image, content }) => {
       <section className="section section--gradient">
         <div className="container">
           <div className="section has-text-centered">
-            <p dangerouslySetInnerHTML={{ __html: content }}></p>
+            <div dangerouslySetInnerHTML={{ __html: content }}></div>
           </div>
         </div>
       </section>
@@ -23,18 +23,18 @@ export const AboutPageTemplate = ({ title, image, content }) => {
   )
 }
 
-AboutPageTemplate.propTypes = {
+EventsPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   content: PropTypes.string,
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
 }
 
-const AboutPage = ({ data }) => {
+const EventsPage = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
     <Layout>
-      <AboutPageTemplate
+      <EventsPageTemplate
         title={post.frontmatter.title}
         image={post.frontmatter.image}
         content={post.html}
@@ -43,14 +43,14 @@ const AboutPage = ({ data }) => {
   )
 }
 
-AboutPage.propTypes = {
+EventsPage.propTypes = {
   data: PropTypes.object.isRequired,
 }
 
-export default AboutPage
+export default EventsPage
 
-export const aboutPageQuery = graphql`
-  query AboutPage($id: String!) {
+export const pageQuery = graphql`
+  query EventsPageTemplate($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {

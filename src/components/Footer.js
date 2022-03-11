@@ -112,6 +112,7 @@ const Footer = class extends React.Component {
                 className="text-is-white"
                 href="https://thenounproject.com/"
                 target="_blank"
+                rel="noreferrer"
               >
                 NounProject
               </a>

@@ -6,7 +6,7 @@ import Layout from '../components/Layout'
 import FullWidthImage from '../components/FullWidthImage'
 
 // eslint-disable-next-line
-export const ProductPageTemplate = ({ image, title, heading, html }) => {
+export const AboutPageTemplate = ({ image, title, heading, html }) => {
   const heroImage = getImage(image) || image
 
   return (
@@ -16,7 +16,7 @@ export const ProductPageTemplate = ({ image, title, heading, html }) => {
         <div className="container">
           <div className="section has-text-centered">
             <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
-            <p dangerouslySetInnerHTML={{ __html: html }}></p>
+            <div dangerouslySetInnerHTML={{ __html: html }}></div>
           </div>
         </div>
       </section>
@@ -24,19 +24,19 @@ export const ProductPageTemplate = ({ image, title, heading, html }) => {
   )
 }
 
-ProductPageTemplate.propTypes = {
+AboutPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string,
   heading: PropTypes.string,
   html: PropTypes.string,
 }
 
-const ProductPage = ({ data }) => {
+const AboutPage = ({ data }) => {
   const { frontmatter, html } = data.markdownRemark
 
   return (
     <Layout>
-      <ProductPageTemplate
+      <AboutPageTemplate
         image={frontmatter.image}
         title={frontmatter.title}
         heading={frontmatter.heading}
@@ -46,7 +46,7 @@ const ProductPage = ({ data }) => {
   )
 }
 
-ProductPage.propTypes = {
+AboutPage.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.shape({
       frontmatter: PropTypes.object,
@@ -54,10 +54,10 @@ ProductPage.propTypes = {
   }),
 }
 
-export default ProductPage
+export default AboutPage
 
-export const productPageQuery = graphql`
-  query ProductPage($id: String!) {
+export const pageQuery = graphql`
+  query AboutPageTemplate($id: String!) {
     markdownRemark(id: { eq: $id }) {
       frontmatter {
         title

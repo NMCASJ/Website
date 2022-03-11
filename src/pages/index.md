@@ -4,7 +4,7 @@ image: /img/nmcasj-logo-with-text-color.svg
 main:
   title: What is NM CASJ?
   description: NM CASJ is an organization of counselors who believe social justice and advocacy are critical to the counseling profession, de-stigmatization of mental health, community healing, and creating an equitable society through systemic change.
-body:
+mission:
   title: Our Mission
   blurbs:
     - image: /img/vision-mission-blurbs/1.webp

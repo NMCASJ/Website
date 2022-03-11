@@ -8,7 +8,7 @@ import Features from '../components/Features'
 import FullWidthImage from '../components/FullWidthImage'
 
 // eslint-disable-next-line
-export const IndexPageTemplate = ({ image, body, main, html }) => {
+export const IndexPageTemplate = ({ image, mission, main, html }) => {
   const heroImage = getImage(image) || image
 
   return (
@@ -35,7 +35,7 @@ export const IndexPageTemplate = ({ image, body, main, html }) => {
                   </div>
                   <div className="content">
                     <div className="tile">
-                      <h1 className="title">{body.title}</h1>
+                      <h1 className="title">{mission.title}</h1>
                     </div>
                     <div className="tile">
                       <h4
@@ -52,7 +52,7 @@ export const IndexPageTemplate = ({ image, body, main, html }) => {
                       <p dangerouslySetInnerHTML={{ __html: html }}></p>
                     </div>
                   </div> */}
-                  <Features gridItems={body.blurbs} />
+                  <Features gridItems={mission.blurbs} />
                 </div>
               </div>
             </div>
@@ -69,7 +69,7 @@ IndexPageTemplate.propTypes = {
     title: PropTypes.string,
     description: PropTypes.string,
   }),
-  body: PropTypes.shape({
+  mission: PropTypes.shape({
     title: PropTypes.string,
     description: PropTypes.string,
     blurbs: PropTypes.arrayOf(
@@ -89,7 +89,7 @@ const IndexPage = ({ data }) => {
     <Layout>
       <IndexPageTemplate
         image={frontmatter.image}
-        body={frontmatter.body}
+        mission={frontmatter.mission}
         main={frontmatter.main}
         html={html}
       />
@@ -118,7 +118,7 @@ export const pageQuery = graphql`
           title
           description
         }
-        body {
+        mission {
           title
           blurbs {
             text
