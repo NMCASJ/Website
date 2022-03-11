@@ -20,7 +20,7 @@ The mission of NMCA and its divisions is to promote the professional development
 
 <https://nmca-nm.org/>
 
-The New Mexico Counseling Association serves a coordinating role for four divisions:
+The New Mexico Counseling Association serves a coordinating role for our divisions:
 
 1. New Mexico Counselors for Advocacy and Social Justice (NMCASJ)
 2. NM Mental Health Counselors Association (NMMHCA)
