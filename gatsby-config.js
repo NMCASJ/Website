@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'NM CASJ',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'NM CASJ is an organization of counselors who believe social justice and advocacy are critical to the counseling profession, de-stigmatization of mental health, community healing, and creating an equitable society through systemic change.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

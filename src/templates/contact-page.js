@@ -6,7 +6,7 @@ import { getImage } from 'gatsby-plugin-image'
 import FullWidthImage from '../components/FullWidthImage'
 
 // eslint-disable-next-line
-export const AboutPageTemplate = ({ title, image, content }) => {
+export const ContactPageTemplate = ({ title, image, content }) => {
   const heroImage = getImage(image) || image
 
   return (
@@ -23,18 +23,18 @@ export const AboutPageTemplate = ({ title, image, content }) => {
   )
 }
 
-AboutPageTemplate.propTypes = {
+ContactPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   content: PropTypes.string,
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
 }
 
-const AboutPage = ({ data }) => {
+const ContactPage = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
     <Layout>
-      <AboutPageTemplate
+      <ContactPageTemplate
         title={post.frontmatter.title}
         image={post.frontmatter.image}
         content={post.html}
@@ -43,14 +43,14 @@ const AboutPage = ({ data }) => {
   )
 }
 
-AboutPage.propTypes = {
+ContactPage.propTypes = {
   data: PropTypes.object.isRequired,
 }
 
-export default AboutPage
+export default ContactPage
 
-export const aboutPageQuery = graphql`
-  query AboutPage($id: String!) {
+export const contactPageQuery = graphql`
+  query ContactPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {

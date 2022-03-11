@@ -106,6 +106,17 @@ const Footer = class extends React.Component {
                 </a> */}
               </div>
             </div>
+            <div className="column is-12">
+              Icons used on this site are from{' '}
+              <a
+                className="text-is-white"
+                href="https://thenounproject.com/"
+                target="_blank"
+              >
+                NounProject
+              </a>
+              .
+            </div>
           </div>
         </div>
       </footer>

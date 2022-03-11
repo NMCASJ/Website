@@ -2,7 +2,7 @@
 templateKey: 'team-page'
 path: /about
 title: Who are we?
-image: /img/Northern_New_Mexico.jpeg
+image: /img/New_Mexico_Mountains.jpeg
 heading: CASJ GOVERNING COUNCIL
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
