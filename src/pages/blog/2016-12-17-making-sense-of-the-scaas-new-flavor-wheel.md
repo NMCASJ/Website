@@ -13,7 +13,7 @@ tags:
   - social-justice
   - counselors
 ---
-![]()
+![](https://www.counseling-csj.org/uploads/1/2/3/6/123630265/published/csj-logo-circle-copy.png?1646359326)
 
 ## Visit Counselors for Social Justice to learn more:
 
