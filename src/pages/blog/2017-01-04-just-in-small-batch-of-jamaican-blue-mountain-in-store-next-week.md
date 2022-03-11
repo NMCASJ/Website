@@ -10,9 +10,11 @@ tags:
   - New-Mexico
   - counseling
 ---
+![](/img/aca-webusage-.png)
+
 The American Counseling Association is a not-for-profit, professional and educational organization that is dedicated to the growth and enhancement of the counseling profession. Founded in 1952, ACA is the world's largest association exclusively representing professional counselors in various practice settings.
 
-## What is counseling? 
+## What is counseling?
 
 According to 20/20: A Vision for the Future of Counseling, the delegates comprised of 31 counseling organizations agreed upon a unified definition of counseling: Professional counseling is a professional relationship that empowers diverse individuals, families, and groups to accomplish mental health, wellness, education, and career goals.
 
