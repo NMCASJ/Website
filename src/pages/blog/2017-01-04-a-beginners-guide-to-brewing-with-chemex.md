@@ -7,7 +7,7 @@ description: Founded in 1956 as a state branch of the American Counseling
   field of professional counseling. We facilitating networking, collaboration
   and professional development.
 featuredpost: false
-featuredimage: /img/chemex.jpg
+featuredimage: /img/Northern_New_Mexico.jpeg
 tags:
   - NMCA
   - counseling
