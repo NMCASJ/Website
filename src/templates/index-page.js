@@ -13,12 +13,7 @@ export const IndexPageTemplate = ({ image, mission, main, html }) => {
 
   return (
     <div>
-      <FullWidthImage
-        img={heroImage}
-        // title={title}
-        style={{ backgroundColor: '#F7BF4F' }}
-        // subheading={subheading}
-      />
+      <FullWidthImage img={heroImage} style={{ backgroundColor: '#F7BF4F' }} />
       <section className="section section--gradient">
         <div className="container">
           <div className="section">
@@ -44,14 +39,6 @@ export const IndexPageTemplate = ({ image, mission, main, html }) => {
                       ></h4>
                     </div>
                   </div>
-                  {/* <div className="columns">
-                    <div className="column is-12">
-                      <h3 className="has-text-weight-semibold is-size-2">
-                        {body.title}
-                      </h3>
-                      <p dangerouslySetInnerHTML={{ __html: html }}></p>
-                    </div>
-                  </div> */}
                   <Features gridItems={mission.blurbs} />
                 </div>
               </div>

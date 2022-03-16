@@ -11,7 +11,7 @@ export const EventsPageTemplate = ({ title, image, content }) => {
 
   return (
     <div className="content">
-      <FullWidthImage img={heroImage} title={title} />
+      <FullWidthImage img={heroImage} imgPosition="top" title={title} />
       <section className="section section--gradient">
         <div className="container">
           <div className="section has-text-centered">

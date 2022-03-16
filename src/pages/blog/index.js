@@ -2,37 +2,36 @@ import * as React from 'react'
 
 import Layout from '../../components/Layout'
 import BlogRoll from '../../components/BlogRoll'
+import FullWidthImage from '../../components/FullWidthImage'
+import { useStaticQuery, graphql } from 'gatsby'
+import { getImage } from 'gatsby-plugin-image'
 
-export default class BlogIndexPage extends React.Component {
-  render() {
-    return (
-      <Layout>
-        <div
-          className="full-width-image-container margin-top-0"
-          style={{
-            backgroundImage: `url('/img/new-mexico-2499015_1280.webp')`,
-          }}
-        >
-          <h1
-            className="has-text-weight-bold is-size-1"
-            style={{
-              boxShadow: '0.5rem 0 0 #f7bf4f, -0.5rem 0 0 #f7bf4f',
-              backgroundColor: '#f7bf4f',
-              color: 'white',
-              padding: '1rem',
-            }}
-          >
-            Library and Resources
-          </h1>
-        </div>
-        <section className="section">
-          <div className="container">
-            <div className="content">
-              <BlogRoll />
-            </div>
+export default function BlogIndexPage() {
+  const data = useStaticQuery(graphql`
+    query {
+      file(relativePath: { eq: "new-mexico-2499015_1280.webp" }) {
+        childImageSharp {
+          gatsbyImageData(quality: 100, layout: FULL_WIDTH)
+        }
+      }
+    }
+  `)
+  const heroImage = getImage(data.file) || data.file
+
+  return (
+    <Layout>
+      <FullWidthImage
+        img={heroImage}
+        imgPosition="top"
+        title="Library and Resources"
+      />
+      <section className="section">
+        <div className="container">
+          <div className="content">
+            <BlogRoll />
           </div>
-        </section>
-      </Layout>
-    )
-  }
+        </div>
+      </section>
+    </Layout>
+  )
 }
