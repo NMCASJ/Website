@@ -7,8 +7,7 @@ import Layout from '../components/Layout'
 import Features from '../components/Features'
 import FullWidthImage from '../components/FullWidthImage'
 
-// eslint-disable-next-line
-export const IndexPageTemplate = ({ image, mission, main, html }) => {
+const IndexPageTemplate = ({ image, mission, main, html }) => {
   const heroImage = getImage(image) || image
 
   return (

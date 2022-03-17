@@ -5,8 +5,7 @@ import Layout from '../components/Layout'
 import { getImage } from 'gatsby-plugin-image'
 import FullWidthImage from '../components/FullWidthImage'
 
-// eslint-disable-next-line
-export const ContactPageTemplate = ({ title, image, content }) => {
+const ContactPageTemplate = ({ title, image, content }) => {
   const heroImage = getImage(image) || image
 
   return (

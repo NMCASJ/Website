@@ -4,9 +4,14 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import { getImage } from 'gatsby-plugin-image'
 import FullWidthImage from '../components/FullWidthImage'
+import Calendar from '@ericz1803/react-google-calendar'
 
 // eslint-disable-next-line
-export const EventsPageTemplate = ({ title, image, content }) => {
+const API_KEY = 'AIzaSyCeeLUds4T0rQkMBUewsx2I5kPZGrd_TGw'
+const calendars = [
+  { calendarId: 'c_hqh4go4k7h2p93tn6i0rt992e0@group.calendar.google.com' },
+]
+const EventsPageTemplate = ({ title, image, content }) => {
   const heroImage = getImage(image) || image
 
   return (
@@ -15,7 +20,8 @@ export const EventsPageTemplate = ({ title, image, content }) => {
       <section className="section section--gradient">
         <div className="container">
           <div className="section has-text-centered">
-            <div dangerouslySetInnerHTML={{ __html: content }}></div>
+            {/* <div dangerouslySetInnerHTML={{ __html: content }}></div> */}
+            <Calendar apiKey={API_KEY} calendars={calendars} />
           </div>
         </div>
       </section>
