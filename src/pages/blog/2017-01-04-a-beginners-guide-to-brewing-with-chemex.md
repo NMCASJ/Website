@@ -1,11 +1,12 @@
 ---
 templateKey: blog-post
 title: "The New Mexico Counseling Association "
-date: 2017-01-04T15:04:10.000Z
+date: 2022-03-03T15:04:10.000Z
 description: Founded in 1956 as a state branch of the American Counseling
   Association (ACA), the NMCA encompasses a broad spectrum of groups in the
   field of professional counseling. We facilitating networking, collaboration
   and professional development.
+draft: false
 featuredpost: false
 featuredimage: /img/Northern_New_Mexico.jpeg
 tags:
