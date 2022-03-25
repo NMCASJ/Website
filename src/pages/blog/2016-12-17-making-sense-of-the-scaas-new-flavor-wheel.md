@@ -2,20 +2,20 @@
 templateKey: blog-post
 title: ​Counselors for Social Justice
 date: 2022-03-04T02:23:00.000Z
-description: "Counselors for Social Justice is a national division of the
+description: 'Counselors for Social Justice is a national division of the
   American Counseling Association. CSJ works to promote social justice in our
   society through confronting oppressive systems of power and privilege that
   affect professional counselors and our clients and to assist in the positive
-  change in our society through the professional development of counselors. "
+  change in our society through the professional development of counselors. '
 draft: false
 featuredpost: true
-featuredimage: /img/csj-logo-circle-copy.png
+featuredimage: /img/blog-posts/csj-logo-circle-copy.webp
 tags:
   - social-justice
   - counselors
 ---
 
-![CSJ Logo](/img/csj-logo-circle-copy.png)
+![CSJ Logo](/img/blog-posts/csj-logo-circle-copy.webp)
 
 Counselors for Social Justice (CSJ) acknowledges the systemic barriers within our society and profession that impact clients, students, counselors, schools, families, and communities. We use personal and collective activism as a vehicle to address disparities through collaboration with communities, schools, mental health practitioners, and other service providers, as well as involvement in political, regulatory, and legislative processes. Our mission is to incorporate social justice advocacy into our roles as clinicians, supervisors, educators, and researchers by:
 

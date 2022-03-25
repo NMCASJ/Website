@@ -9,7 +9,7 @@ import { getImage } from 'gatsby-plugin-image'
 export default function BlogIndexPage() {
   const data = useStaticQuery(graphql`
     query {
-      file(relativePath: { eq: "new-mexico-2499015_1280.webp" }) {
+      file(relativePath: { eq: "headers/new-mexico-2499015_1280.webp" }) {
         childImageSharp {
           gatsbyImageData(quality: 100, layout: FULL_WIDTH)
         }

@@ -2,7 +2,7 @@
 templateKey: 'contact-page'
 path: /contact
 title: Contact
-image: /img/New_Mexico_Sky_(212958675).jpeg
+image: /img/headers/New_Mexico_Sky_(212958675).webp
 ---
 
 # Join our mailing list
