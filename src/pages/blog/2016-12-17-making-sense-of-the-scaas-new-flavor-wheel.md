@@ -7,8 +7,8 @@ description: "Counselors for Social Justice is a national division of the
   society through confronting oppressive systems of power and privilege that
   affect professional counselors and our clients and to assist in the positive
   change in our society through the professional development of counselors. "
-draft: true
-featuredpost: false
+draft: false
+featuredpost: true
 featuredimage: /img/csj-logo-circle-copy.png
 tags:
   - social-justice
