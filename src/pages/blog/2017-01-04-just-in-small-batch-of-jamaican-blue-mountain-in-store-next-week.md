@@ -1,8 +1,9 @@
 ---
 templateKey: blog-post
 title: The American Counseling Association
-date: 2017-01-04T15:04:10.000Z
+date: 2022-03-04T02:27:38.281Z
 description: "Your Passion. Your Profession. Our Purpose. "
+draft: false
 featuredpost: true
 featuredimage: /img/aca-webusage-.png
 tags:
@@ -20,11 +21,11 @@ According to 20/20: A Vision for the Future of Counseling, the delegates compris
 
 > There are 18 chartered divisions within the American Counseling Association. These divisions provide leadership, resources and information unique to specialized areas and/or principles of counseling.  ACA has four regions, which serves members in those regions.  Lastly, ACA has 56 chartered branches in the U.S., Europe, and Latin America.  Please click the following links to get more information about ACA's Divisions, Branches, and Regions.
 
-Annual conference: The American Counseling Association Conference & Expo is the premier professional development and networking event for licensed professional counselors, students and mental health professionals. This year we are heading back to face-to-face to connect, engage, and learn
+Annual conference: The American Counseling Association Conference & Expo is the premier professional development and networking event for licensed professional counselors, students and mental health professionals. This year we are heading back to face-to-face to connect, engage, and learn.
 
 ## ACAs Vision, Mission, & Values
 
-Our Impact: Every person has access to quality professional counseling to t.
+Our Impact: Every person has access to quality professional counseling to thrive.
 
 What we do: Promote the professional development of counselors, advocate for the profession, and ensure ethical, culturally-inclusive practices that protect those using counseling services.
 
