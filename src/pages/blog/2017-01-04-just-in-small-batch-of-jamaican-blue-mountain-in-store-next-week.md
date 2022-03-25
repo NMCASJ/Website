@@ -3,7 +3,7 @@ templateKey: blog-post
 title: The American Counseling Association
 date: 2022-03-04T02:27:38.281Z
 description: "Your Passion. Your Profession. Our Purpose. "
-draft: true
+draft: false
 featuredpost: true
 featuredimage: /img/aca-webusage-.png
 tags:
@@ -30,3 +30,5 @@ Our Impact: Every person has access to quality professional counseling to thrive
 What we do: Promote the professional development of counselors, advocate for the profession, and ensure ethical, culturally-inclusive practices that protect those using counseling services.
 
 What we believe: Counseling is a professional relationship that empowers diverse individuals, families, and groups to accomplish mental health, wellness, education, and career goals.  The American Counseling Association (ACA) is an educational, scientific, and professional organization whose members work in a variety of settings and service in multiple capacities.
+
+<https://www.counseling.org/>
