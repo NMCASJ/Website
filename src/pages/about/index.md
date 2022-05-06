@@ -41,8 +41,6 @@ _Vacant_
 
 # <a target="_blank" href="https://drive.google.com/file/d/1DWpXNYRD-heND5o2RGRt4OWWXYq8p5Fa/view?usp=sharing">Our Bylaws</a>
 
-# Our Strategic Plan
-
-_coming soon_
+# <a target="_blank" href="https://drive.google.com/file/d/1OQ1teAnhuU5VSS-uWqO4RKLf0pW7Ngg2/view?usp=sharing">Our Strategic Plan</a>
 
 # [Join Us](/contact)
