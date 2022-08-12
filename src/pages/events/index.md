@@ -4,9 +4,9 @@ path: /events
 title: Events
 image: /img/headers/yucca-against-new-mexico-sunset-3850690_1280.webp
 ---
-# **Prioritizing Multicultural Perspectives in Ethical Decision Making** 
+# **Prioritizing Multicultural Perspectives in Ethical Decision Making**
 
-Presented by: Arianna Trott, PhD. LPCC and Debora Perez, PhD. LPCC 
+Presented by: Arianna Trott, PhD. LPCC and Debra Perez, PhD. LPCC 
 
 Friday- September 16th 2:30pm-6:30pm 
 
