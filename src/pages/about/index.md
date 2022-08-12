@@ -1,43 +1,38 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
 title: Who are we?
 image: /img/headers/New_Mexico_Mountains.webp
 heading: CASJ GOVERNING COUNCIL
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: Cristina Apodaca
 ---
-
 #### President
 
-_Arianna Trott_
+*Liz Daniels*
 
 #### President-Elect
 
-_Liz Daniels_
+*Debora Perez*
 
 #### Past President
 
-_N/A_
+*Arianna Trott*
 
 #### Communications Officer
 
-_Cristina Apodaca_
+*Deanna Valdez*
 
 #### Treasurer
 
-_Kathleen Charest_
+*Kathleen Charest*
 
 #### Membership Co-Officers
 
-_Debra Perez & Kate Latimer_
+*Debra Perez & Kate Latimer*
 
 #### Community Officer
 
-_Vacant_
+*Cristina Apodaca*
 
 # <a target="_blank" href="https://drive.google.com/file/d/1DWpXNYRD-heND5o2RGRt4OWWXYq8p5Fa/view?usp=sharing">Our Bylaws</a>
 
