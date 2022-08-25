@@ -7,8 +7,7 @@ description: 3 CEUS Available
 draft: false
 featuredpost: true
 featuredimage: /img/screenshot-2022-08-11-9.15.45-pm.png
-tags:
-  - CEU
+tags: []
 ---
 # Prioritizing Multicultural Perspectives in Ethical Decision Making
 
