@@ -4,7 +4,7 @@ title: "CEUs and Networking Event: Prioritizing Multicultural Perspectives in
   Ethical Decision Making"
 date: 2022-08-12T04:01:01.199Z
 description: 3 CEUS Available
-draft: true
+draft: false
 featuredpost: true
 featuredimage: /img/screenshot-2022-08-11-9.15.45-pm.png
 ---
