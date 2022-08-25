@@ -7,19 +7,27 @@ description: 3 CEUS Available
 draft: false
 featuredpost: true
 featuredimage: /img/screenshot-2022-08-11-9.15.45-pm.png
+tags:
+  - CEU
 ---
-**Prioritizing Multicultural Perspectives in Ethical Decision Making**
+# Prioritizing Multicultural Perspectives in Ethical Decision Making
 
-**Presented by: Arianna Trott, PhD. LPCC and Debra Perez, PhD. LPCC**
+### Presented by: Arianna Trott, PhD. LPCC and Debra Perez, PhD. LPCC
 
-**Friday September 16th 2:30pm-6:30pm**
+### Friday September 16th 2:30pm-6:30pm
 
-Embassy Suites by Hilton Albuquerque\
+#### Location:
+
+Embassy Suites by Hilton Albuquerque
 100 Woodward Place NE, Albuquerque 
 
 Virtually via Zoom
 
-**Pricing:**
+**[Register here for more details.](https://nmca-nm.ezfacility.com/login?SmuFormId=75527FD7-6515-46C4-82FB-E9878BC05C07)**
+
+
+
+#### Pricing:
 
 NMCASJ Members: Free
 
@@ -29,11 +37,9 @@ Non Members Pay at the Door: $125
 
 Community Members (no CEUs): Free
 
-\*\*\*all participants must register\*\*\*
+***all participants must register***
 
-[CLICK HERE TO](https://nmca-nm.ezfacility.com/login?SmuFormId=75527FD7-6515-46C4-82FB-E9878BC05C07): REGISTER
-
-**Schedule:**
+#### Schedule:
 
 2:15-2:30: Check In
 
@@ -41,14 +47,14 @@ Community Members (no CEUs): Free
 
 5:30-5:45: Check out/ Certificates Distributed
 
-5:45-6:30: Networking and Refreshments 
+5:45-6:30: Networking and Refreshments
 
 
 
-**Learning Objectives:**
+#### Learning Objectives:
 
 * Summarize three (3) ethical decision making models
 * Recognize that consideration of multicultural perspectives are critical for ethical decision making
 * Utilize ethical decision making models in conjunction with cultural humility
 
-## [Not a member, but would like to become one](https://nmca-nm.ezfacility.com/login)
+## [If you are not a member, but would like to become one - register for a membership here.](https://nmca-nm.ezfacility.com/login)
