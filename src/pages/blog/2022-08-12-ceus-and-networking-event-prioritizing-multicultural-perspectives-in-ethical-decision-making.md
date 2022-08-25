@@ -25,8 +25,6 @@ Virtually via Zoom
 
 **[Register here for more details.](https://nmca-nm.ezfacility.com/login?SmuFormId=75527FD7-6515-46C4-82FB-E9878BC05C07)**
 
-
-
 #### Pricing:
 
 NMCASJ Members: Free
@@ -37,7 +35,7 @@ Non Members Pay at the Door: $125
 
 Community Members (no CEUs): Free
 
-***all participants must register***
+**[All participants must register.](https://nmca-nm.ezfacility.com/login?SmuFormId=75527FD7-6515-46C4-82FB-E9878BC05C07)**
 
 #### Schedule:
 
@@ -48,8 +46,6 @@ Community Members (no CEUs): Free
 5:30-5:45: Check out/ Certificates Distributed
 
 5:45-6:30: Networking and Refreshments
-
-
 
 #### Learning Objectives:
 
