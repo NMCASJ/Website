@@ -7,13 +7,15 @@ description: 3 CEUS Available
 draft: false
 featuredpost: true
 featuredimage: /img/screenshot-2022-08-11-9.15.45-pm.png
-tags: []
+tags:
+  - CEUs
+  - Networking Event
 ---
-# Prioritizing Multicultural Perspectives in Ethical Decision Making
+## Presented by: Arianna Trott, PhD. LPCC and Debra Perez, PhD. LPCC
 
-### Presented by: Arianna Trott, PhD. LPCC and Debra Perez, PhD. LPCC
+## Friday September 16th 2:30pm-6:30pm
 
-### Friday September 16th 2:30pm-6:30pm
+![Event Flyer](/img/screenshot-2022-08-11-9.15.45-pm.png)
 
 #### Location:
 
