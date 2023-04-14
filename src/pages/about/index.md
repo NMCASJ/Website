@@ -12,7 +12,7 @@ description: Cristina Apodaca
 
 #### President-Elect
 
-*Debora Perez*
+*Debra Perez*
 
 #### Past President
 
@@ -26,9 +26,9 @@ description: Cristina Apodaca
 
 *Kathleen Charest*
 
-#### Membership Co-Officers
+#### Membership Officer
 
-*Debra Perez & Kate Latimer*
+*Kate Latimer*
 
 #### Community Officer
 
