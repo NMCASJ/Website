@@ -2,10 +2,9 @@
 templateKey: blog-post
 title: "Event: Water is Life "
 date: 2023-04-14T16:27:19.439Z
-description: |+
+description: |
   New Mexico Social Justice & Equity Institute Virtual Event
-
-draft: true
+draft: false
 featuredpost: true
 featuredimage: /img/water-is-life.png
 tags:
