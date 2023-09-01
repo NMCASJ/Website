@@ -36,6 +36,12 @@ description: CASJ GOVERNING COUNCIL
 
 *Cristina Apodaca*
 
+#### Graduate Student Representative
+
+*\-v﻿acant-*
+
+
+
 # <a target="_blank" href="https://drive.google.com/file/d/1DWpXNYRD-heND5o2RGRt4OWWXYq8p5Fa/view?usp=sharing">Our Bylaws</a>
 
 # <a target="_blank" href="https://drive.google.com/file/d/1OQ1teAnhuU5VSS-uWqO4RKLf0pW7Ngg2/view?usp=sharing">Our Strategic Plan</a>
