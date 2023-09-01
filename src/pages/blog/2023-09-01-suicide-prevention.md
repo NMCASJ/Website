@@ -4,7 +4,7 @@ title: Suicide Prevention
 date: 2023-09-01T20:17:20.349Z
 description: "Learn more Statistics, Prevention Strategies, Resources, Risk &
   Protective Factors, Tools for Counselors. "
-draft: true
+draft: false
 featuredpost: true
 featuredimage: /img/out-of-the-darkness-walks.png
 tags: []
