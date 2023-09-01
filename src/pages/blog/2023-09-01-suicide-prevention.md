@@ -7,7 +7,8 @@ description: "Learn more Statistics, Prevention Strategies, Resources, Risk &
 draft: false
 featuredpost: true
 featuredimage: /img/out-of-the-darkness-walks.png
-tags: []
+tags:
+  - suicideprevention
 ---
 ## ***J﻿oin Us for Out of the Darkness Walks 2023***
 
