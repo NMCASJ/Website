@@ -16,9 +16,9 @@ description: CASJ GOVERNING COUNCIL
 
 #### Past President
 
-*Liz Daniels*
+*Liz Daniels 2022-2023*
 
-*Arianna Trott*
+*Arianna Trott 2021-2022*
 
 #### Communications Officer
 
