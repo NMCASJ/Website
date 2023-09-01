@@ -4,31 +4,33 @@ path: /about
 title: Who are we?
 image: /img/headers/New_Mexico_Mountains.webp
 heading: CASJ GOVERNING COUNCIL
-description: Cristina Apodaca
+description: CASJ GOVERNING COUNCIL
 ---
 #### President
 
-*Liz Daniels*
+*Debra Perez*
 
 #### President-Elect
 
-*Debra Perez*
+*Olivia Fadul*
 
 #### Past President
+
+*Liz Daniels*
 
 *Arianna Trott*
 
 #### Communications Officer
 
-*Deanna Valdez*
+*Liz Daniels*
 
-#### Treasurer
+#### **Interim Treasurer**
 
-*Kathleen Charest*
+*Arianna Trott*
 
 #### Membership Officer
 
-*Kate Latimer*
+*\-v﻿acant-*
 
 #### Community Officer
 
