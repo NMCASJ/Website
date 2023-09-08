@@ -3,9 +3,9 @@ import { Link } from 'gatsby'
 
 import logo from '../img/logo.svg'
 import facebook from '../img/social/facebook.svg'
-// import instagram from '../img/social/instagram.svg'
-// import twitter from '../img/social/twitter.svg'
-// import vimeo from '../img/social/vimeo.svg'
+import instagram from '../img/social/instagram.svg'
+import twitter from '../img/social/twitter.svg'
+import vimeo from '../img/social/vimeo.svg'
 
 const Footer = class extends React.Component {
   render() {
@@ -22,7 +22,7 @@ const Footer = class extends React.Component {
           <div className="container has-background-black has-text-white-ter">
             <div style={{ maxWidth: '100vw' }} className="columns">
               {/* <div className="column is-4"> */}
-              <div className="column is-12">
+              <div className="column is-6">
                 <section className="menu">
                   <ul className="menu-list">
                     <li>
@@ -40,11 +40,11 @@ const Footer = class extends React.Component {
                         Events
                       </Link>
                     </li>
-                    {/*<li>
+                    <li>
                       <Link className="navbar-item" to="/blog">
-                        Library
+                        Resources
                       </Link>
-                    </li>*/}
+                    </li>
                     {/* <li>
                       <Link className="navbar-item" to="/contact/examples">
                         Form Examples
@@ -58,7 +58,7 @@ const Footer = class extends React.Component {
                   </ul>
                 </section>
               </div>
-              <div className="column is-4">
+              {/*<div className="column is-6">
                 <section>
                   <ul className="menu-list">
                     <li>
@@ -68,8 +68,8 @@ const Footer = class extends React.Component {
                     </li>
                   </ul>
                 </section>
-              </div>
-              <div className="column is-4 social">
+              </div>*/}
+              <div className="column is-6 social">
                 <a title="facebook" href="https://www.facebook.com/people/NM-Counselors-for-Advocacy-and-Social-Justice/100081790421708/">
                   <img
                     src={facebook}
