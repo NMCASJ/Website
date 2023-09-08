@@ -40,11 +40,11 @@ const Footer = class extends React.Component {
                         Events
                       </Link>
                     </li>
-                    <li>
+                    {/*<li>
                       <Link className="navbar-item" to="/blog">
                         Library
                       </Link>
-                    </li>
+                    </li>*/}
                     {/* <li>
                       <Link className="navbar-item" to="/contact/examples">
                         Form Examples
@@ -59,29 +59,24 @@ const Footer = class extends React.Component {
                 </section>
               </div>
               <div className="column is-4">
-                {/* <section>
+                <section>
                   <ul className="menu-list">
                     <li>
                       <Link className="navbar-item" to="/blog">
-                        Latest Stories
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact">
-                        Contact
+                        Resources
                       </Link>
                     </li>
                   </ul>
-                </section> */}
+                </section>
               </div>
               <div className="column is-4 social">
-                {/* <a title="facebook" href="https://facebook.com">
+                <a title="facebook" href="https://www.facebook.com/people/NM-Counselors-for-Advocacy-and-Social-Justice/100081790421708/">
                   <img
                     src={facebook}
                     alt="Facebook"
                     style={{ width: "1em", height: "1em" }}
                   />
-                </a> */}
+                </a>
                 {/* <a title="twitter" href="https://twitter.com">
                   <img
                     className="fas fa-lg"
