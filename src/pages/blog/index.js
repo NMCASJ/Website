@@ -23,7 +23,7 @@ export default function BlogIndexPage() {
       <FullWidthImage
         img={heroImage}
         imgPosition="top"
-        title="Library and Resources"
+        title="Resources"
       />
       <section className="section">
         <div className="container">
