@@ -70,7 +70,7 @@ const Navbar = class extends React.Component {
                 Events
               </Link>
               <Link className="navbar-item" to="/blog">
-                Library
+                Resources
               </Link>
               <Link className="navbar-item" to="/contact">
                 Contact
