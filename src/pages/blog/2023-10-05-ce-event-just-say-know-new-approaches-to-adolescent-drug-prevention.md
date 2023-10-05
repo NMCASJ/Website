@@ -9,7 +9,7 @@ description: >-
 
 
   Register here: https://www.zeffy.com/en-US/ticketing/b5c395f4-8ada-4803-8650-da7ab26f9606
-draft: true
+draft: false
 featuredpost: true
 featuredimage: /img/just-say-know-1-.png
 tags:
