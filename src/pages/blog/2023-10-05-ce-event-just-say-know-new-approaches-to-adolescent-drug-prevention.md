@@ -5,7 +5,7 @@ date: 2023-10-05T17:51:24.329Z
 description: |-
   Join Us for Saturday, 21 October 2023 at 1-3pm for 
   Just Say Know: New Approaches to Adolescent Drug Prevention 
-draft: true
+draft: false
 featuredpost: true
 featuredimage: /img/just-say-know-1-.png
 tags:
