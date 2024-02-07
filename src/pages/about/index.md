@@ -38,9 +38,7 @@ description: CASJ GOVERNING COUNCIL
 
 #### Graduate Student Representative
 
-*\-v﻿acant-*
-
-
+*Jude Chavez*
 
 # <a target="_blank" href="https://drive.google.com/file/d/1DWpXNYRD-heND5o2RGRt4OWWXYq8p5Fa/view?usp=sharing">Our Bylaws</a>
 
