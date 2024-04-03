@@ -5,7 +5,7 @@ date: 2024-04-03T16:08:06.008Z
 description: "Join us in supporting NMTGRC: Transgender Resource Center Donation
   Drive! Bring your donations to Cutbow Coffee on Saturday, June 1, 2024 at
   10:00am"
-draft: true
+draft: false
 featuredpost: true
 featuredimage: /img/item-collection-tgrc.png
 ---
