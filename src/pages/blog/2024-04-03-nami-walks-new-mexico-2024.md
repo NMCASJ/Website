@@ -3,7 +3,7 @@ templateKey: blog-post
 title: NAMI Walks New Mexico 2024
 date: 2024-04-03T15:57:16.937Z
 description: Walk with us for NAMI Walks New Mexico 2024!
-draft: true
+draft: false
 featuredpost: true
 featuredimage: /img/nami-walk.png
 ---
