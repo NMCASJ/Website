@@ -8,13 +8,15 @@ description: CASJ GOVERNING COUNCIL
 ---
 #### President
 
-*Debra Perez*
+*Olivia Fadul*
 
 #### President-Elect
 
-*Olivia Fadul*
+*Jude Chavez*
 
 #### Past President
+
+*Debra Perez 2023-2024*
 
 *Liz Daniels 2022-2023*
 
@@ -26,19 +28,19 @@ description: CASJ GOVERNING COUNCIL
 
 #### **Interim Treasurer**
 
-*Arianna Trott*
+*Debra Perez*
 
 #### Membership Officer
 
-*\-v﻿acant-*
+*Arianna Trott*
 
 #### Community Officer
 
-*Cristina Apodaca*
+*D﻿eidre Gordon*
 
 #### Graduate Student Representative
 
-*Jude Chavez*
+*Michael Lovato*
 
 # <a target="_blank" href="https://drive.google.com/file/d/1DWpXNYRD-heND5o2RGRt4OWWXYq8p5Fa/view?usp=sharing">Our Bylaws</a>
 
