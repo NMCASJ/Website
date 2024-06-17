@@ -14,13 +14,9 @@ description: CASJ GOVERNING COUNCIL
 
 *Jude Chavez*
 
-#### Past President
+#### Immediate Past President
 
-*Debra Perez 2023-2024*
-
-*Liz Daniels 2022-2023*
-
-*Arianna Trott 2021-2022*
+*Debra Perez*
 
 #### Communications Officer
 
@@ -41,6 +37,12 @@ description: CASJ GOVERNING COUNCIL
 #### Graduate Student Representative
 
 *Michael Lovato*
+
+#### Past Presidents
+
+* *Debra Perez 2023-2024*
+* *Liz Daniels 2022-2023*
+* *Arianna Trott 2021-2022*
 
 # <a target="_blank" href="https://drive.google.com/file/d/1DWpXNYRD-heND5o2RGRt4OWWXYq8p5Fa/view?usp=sharing">Our Bylaws</a>
 
